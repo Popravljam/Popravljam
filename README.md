@@ -10,11 +10,11 @@
 
 ## About Me
 
-I'm not a developer by trade, but I build tools that solve real problems for journalists and researchers. My work focuses on **OSINT (Open Source Intelligence)** and **data exploration**, creating browser extensions and utilities that make investigative work more efficient.
+I'm not a developer by trade, but I build tools that solve real problems for journalists and researchers. My work focuses on **OSINT** and **data exploration**, creating browser extensions and utilities that make investigative work more efficient.
 
 With a background in journalism and training, I understand the challenges researchers face—and I code solutions for them.
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 ### Browser Extensions
 - **[ORCID Chrome Extension](https://github.com/Popravljam/orcid-chrome-extension)** - Automatically detect ORCID IDs and display researcher information. Privacy-focused tool for the research community.
@@ -28,7 +28,7 @@ With a background in journalism and training, I understand the challenges resear
 ### OSINT Tools
 - **[Investigato.rs Toolbox](https://github.com/Popravljam/Investigato.rs-toolbox)** - Serbian OSINT toolbox for investigators.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,10 +37,6 @@ With a background in journalism and training, I understand the challenges resear
 
 **Focus Areas:** Browser Extensions • OSINT Tools • Data Journalism • Research Utilities
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popravljam&show_icons=true&theme=default)
-
 ---
 
-💼 Open to collaborations on OSINT and journalism tools
+Open to collaborations on OSINT and journalism tools
